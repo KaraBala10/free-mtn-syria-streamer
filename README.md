@@ -63,7 +63,7 @@ You need at least one of the following media players installed:
 
 1. **▶️ Run the application**:
    ```bash
-   python3 main.py
+   python3 free_mtn_streamer.py
    ```
 
 2. **📝 Register your account**:
